@@ -1,0 +1,3 @@
+﻿  cpp maze generation.cpp
+C:\Users\Mahir\source\repos\cpp maze generation\cpp maze generation\cpp maze generation.cpp(166,39): warning C4390: ';': empty controlled statement found; is this the intent?
+  cpp maze generation.vcxproj -> C:\Users\Mahir\source\repos\cpp maze generation\Debug\cpp maze generation.exe
